@@ -40,8 +40,8 @@ const skills = [
 const projects = [
   {
     title: 'DemonTix',
-    image: 'https://via.placeholder.com/500x300?text=Jogja+Inside',
-    description: 'Website rekomendasi destinasi wisata di Yogyakarta dengan fitur login admin, manajemen user & destinasi.',
+    image: 'https://i.imgur.com/kmMgDwq.png',
+    description: 'Website rekomendasi jual beli tiket event.',
     tech: ['Vue.js', 'Laravel', 'MySQL'],
     link: 'https://github.com/iqblmlnf/DemonTix-Kelompok-5.git' // atau link deploy kamu
   },
